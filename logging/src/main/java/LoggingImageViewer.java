@@ -10,6 +10,7 @@ import java.util.logging.*;
 
 /**
  * Created by ScorpionOrange on 2016/10/03.
+ * summit at 2016.10.10.
  * A modification of the image viewer program that logs various events.
  */
 public class LoggingImageViewer {
